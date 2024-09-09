@@ -6,4 +6,5 @@ We  also do the coding for the following finding:
 1) Difference in speed for the 50km ,50mi male to female
 2) What age groups are the best in the 50 mile race 
 3) What age groups are the worst in the 50 mile race 
-4) Are the marathon runners slower in summer than winter
+4) Is there a seasonal difference in the number of participants in the marathon
+5) Do the marathon runners perform better in a certain season
